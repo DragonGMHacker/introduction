@@ -38,8 +38,8 @@ Let get started by finding out my carreer & my social activites! Be focused, bec
 - **Discord**: @hito.akk1to
 
 # Sample code (C++)
-
-        /*
+```cpp
+/*
         akk1to.dev, a riel developer!
         contact me on discord: hito.akk1to
     */
