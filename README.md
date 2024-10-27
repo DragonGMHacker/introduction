@@ -31,6 +31,7 @@ Let get started by finding out my carreer & my social activites! Be focused, bec
 - **Steam Account**: steamcommunity.com/id/anbui098
 - **Spotify**: open.spotify.com/user/31ki3izwarkotf2krqm2cepjadka
 - **Project hosting**: akk1to.ihostfull.com
+- **Codeforces**:codeforces.com/profile/thedreamerk9
 - **Riot Account**: untrusted#7704
 - **Reddit**: @kuzekihitoru
 - **Twitter (a.k.a X)**: @dragondev_vn
