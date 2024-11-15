@@ -21,7 +21,7 @@ Let get started by finding out my carreer & my social activites! Be focused, bec
 - **Steam Account**: Fantastic (killme091).
 - **Genshin Impact**: 842885536 (Asia, Lv. 55) & 837774605 (Asia, Lv. 55)
 - **Minecraft**: MikuStillLove (Premium account) & DreamsDragon_YTB (non-Premium account)
-- **Valorant**: akk1to#hito
+- **Valorant**: KleeSoCute#akito
 (I'm also play some more games, but I won't list it here)
 
 ## My social account
